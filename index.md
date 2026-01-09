@@ -23,4 +23,4 @@ To display shortcut icons, the extension may request website favicons (icons) fr
 You can delete your shortcut data at any time by removing shortcuts in the New Tab UI or by uninstalling the extension. Uninstalling removes extension-stored data from that browser profile.
 
 ## Contact
-If you have questions about this policy, contact: YOUR_EMAIL_HERE
+If you have questions about this policy, contact: penghian@gmail.com
